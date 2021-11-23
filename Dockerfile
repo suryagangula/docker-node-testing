@@ -1,4 +1,4 @@
-FROM node:10.16.3-stretch
+FROM node:10.16.3
 
 # Create app directory
 WORKDIR /usr/src/app
